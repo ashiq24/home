@@ -1,7 +1,11 @@
 ---
-layout: blog
-title: Blog
+layout: about
+title: About
 description: >
+  Md Ashiqur Rahman, Researcher at Purdue University
+cover: true
+---
+
 # About Me
 Your self description here
 
@@ -12,10 +16,3 @@ Your self description here
 ## Experience
 - Research Assistant | Purdue University
 - Other positions...
-
-last_modified_at: 2018-08-03
-no_link_title: false 
-no_excerpt: false 
-hide_image: false
-cover: true
----
