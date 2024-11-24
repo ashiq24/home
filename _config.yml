@@ -41,16 +41,16 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Md Ashiqur> <Rahman>
-  email:               <rahman79@purdue.edu>
+  name:                Md Ashiqur Rahman
+  email:               rahman79@purdue.edu
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Publications
     url:               /example/
-  - title:             Documentation
+  - title:             Resume
     url:               /docs/
   - title:             About
     url:               /about/
@@ -271,15 +271,6 @@ hydejack:
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 
-  # ⚡️ DANGER ZONE ⚡️
-  # ----------------
-  # This is an _experimental_ feature.
-  # Only use if you know what Service Workers are and how they can impact your site!
-  offline:
-    enabled:           false
-    cache_version:     13
-    precache_assets:
-      - /assets/img/swipe.svg
 
 
 # Collections
