@@ -2,14 +2,15 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <MD ASHIQUR> <RAHMAN>
-  email:             <rahman79@purdue.edu>
+  name:              MD ASHIQUR RAHMAN
+  email:             rahman79@purdue.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Hi, I am a Ph.D. student at the Purdue computer science department. Before this, I received my bachelor's degree in Computer Science and Engineering from the Bangladesh University of Engineering and Technology.
-My research interest is machine learning,  especially computer vision, equivariant, and machine learning for scientific discovery. I am working with Professor Raymond A. Yeh.
+    
+    My research interest is machine learning,  especially computer vision, equivariant, and machine learning for scientific discovery. I am working with Professor Raymond A. Yeh.
 
   # This photo will be used in the about section
   picture:
@@ -24,12 +25,12 @@ My research interest is machine learning,  especially computer vision, equivaria
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <Ashiq_Rahman_s>
-    github:          <ashiq24>
-    email:           <rahman79@purdue.edu>
+    twitter:         Ashiq_Rahman_s
+    github:          ashiq24
+    email:           rahman79@purdue.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    google:          <https://scholar.google.com/citations?user=isCWj28AAAAJ&hl=en>
+    google:          https://scholar.google.com/citations?user=isCWj28AAAAJ&hl=en
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -78,17 +79,17 @@ My research interest is machine learning,  especially computer vision, equivaria
     # mastodon:        https://<url>
     # x:               <username>
 
-# Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# # Another author (optional)
+# author2:
+#   name:              <firtname> <lastname>
+#   email:             <mail@domain.tld>
+#   about:             |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
+#     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+#   picture:           https://placehold.it/128x128
+#   twitter:           <username>
+#   github:            <username>
